@@ -93,10 +93,7 @@ function App() {
             </PagesLayout>
           }
         />
-        {/*  */}
         {/* Signal Provider */}
-        {/*  */}
-
         <Route
           path="/signal-provider/view-signal-provider"
           element={
@@ -119,9 +116,7 @@ function App() {
             </PagesLayout>
           }
         />
-        {/*  */}
         {/* Price Comparison */}
-        {/*  */}
         <Route
           path="/price-comparison"
           element={
@@ -133,9 +128,7 @@ function App() {
             </PagesLayout>
           }
         />
-        {/*  */}
         {/* Trade Terminal */}
-        {/*  */}
         <Route
           path="/trade-terminal"
           element={
@@ -147,9 +140,7 @@ function App() {
             </PagesLayout>
           }
         />
-        {/*  */}
         {/* Portfolio Performance */}
-        {/*  */}
         <Route
           path="/portfolio-performance"
           element={
@@ -161,9 +152,7 @@ function App() {
             </PagesLayout>
           }
         />
-        {/*  */}
         {/* Reports */}
-        {/*  */}
         <Route
           path="/reports/trade-signals"
           element={
@@ -186,9 +175,7 @@ function App() {
             </PagesLayout>
           }
         />
-        {/*  */}
         {/* Exchange Account */}
-        {/*  */}
         <Route
           path="/exchange-account/exchange-account"
           element={
