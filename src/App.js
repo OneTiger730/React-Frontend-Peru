@@ -360,7 +360,6 @@ function App() {
             </AdminPagesLayout>
           }
         />
-        {/*  */}
       </Routes>
     </Router>
   );
